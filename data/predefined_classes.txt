@@ -1,0 +1,15 @@
+animal
+person
+car
+onomatopoeia
+gun
+knife
+building
+bicycle
+plane
+bird
+dog
+cat
+parachute
+train
+boat		
